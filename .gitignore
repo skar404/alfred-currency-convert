@@ -1,0 +1,11 @@
+vendor/
+.idea/
+
+
+# app data
+alfred_course
+save.json
+
+
+# tmp file
+.DS_Store
